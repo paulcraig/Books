@@ -3,8 +3,11 @@
 
 [Amazon Link](https://www.amazon.com/Coddling-American-Mind-Intentions-Generation/dp/0735224919/ref=sr_1_1?crid=3ISV0772408BF&keywords=coddling+of+the+american+mind&qid=1581619325&sprefix=coddling+o%2Caps%2C149&sr=8-1)
 
-[TED Talk @ Biola](https://youtu.be/kHTuI40HjVE)
-  Embed code: <iframe width="560" height="315" src="https://www.youtube.com/embed/kHTuI40HjVE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<!-- blank line -->
+TED Talk at Biola<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/kHTuI40HjVE" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line -->
 
 Summary from Amazon:  Something has been going wrong on many college campuses in the last few years. Speakers are shouted down. Students and professors say they are walking on eggshells and are afraid to speak honestly. Rates of anxiety, depression, and suicide are rising—on campus as well as nationally. How did this happen?
 
